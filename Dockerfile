@@ -20,4 +20,7 @@ RUN npm install -g serve
 
 COPY --from=build-stage /usr/src/app/build /usr/src/html
 
+# select this container to be monitored by watchtower
+LABEL com.centurylinklabs.watchtower.enable="true"
+
 CMD serve -l $PORT /usr/src/html
