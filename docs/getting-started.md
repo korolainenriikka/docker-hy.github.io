@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Getting Started
 
-JEE! sivusto on päivittynyt
+JEE! sivusto on päivittynyt :)
 
 Welcome to the DevOps with Docker course! This course is designed to be completed sequentially, from start to finish. Each part builds on the previous one, so it's important to read the material carefully and complete the exercises to develop the necessary skills.
 
