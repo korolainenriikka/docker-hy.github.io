@@ -4,6 +4,8 @@ sidebar_position: 2
 
 # Getting Started
 
+JEE! sivusto on päivittynyt
+
 Welcome to the DevOps with Docker course! This course is designed to be completed sequentially, from start to finish. Each part builds on the previous one, so it's important to read the material carefully and complete the exercises to develop the necessary skills.
 
 To pass the course, you will need to complete all of the exercises. However, one exercise can be skipped per part, except for the exercises marked as mandatory. The mandatory exercises cannot be skipped.
